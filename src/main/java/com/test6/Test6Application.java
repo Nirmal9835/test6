@@ -10,6 +10,7 @@ public class Test6Application {
         String name="mike"
         int x = 100; 
         boolean ispresent=false
+        int y = 200;
 		SpringApplication.run(Test6Application.class, args);
 	}
 
